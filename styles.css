@@ -1,0 +1,35 @@
+.animalfact-italic {
+font-style : italic;
+}
+
+span {
+font-weight : bold;
+}
+
+ul {
+list-style-type : none;
+padding : 0;
+}
+
+h3 {
+font-size : 30px;
+}
+
+img {
+width : 300px;
+padding: 2px;
+}
+
+.animal-card {
+box-shadow : 1px 10px 15px black;
+border : ridge #ec2c2c29;
+border-radius: 50px;
+background-color : hsla(0, 90%, 12%, 0.42);
+width : 300px;
+padding: 15px;
+}
+
+.animalinformation {
+    border : ridge #a7464666;
+    padding: 2px;
+}
